@@ -105,6 +105,7 @@ void IRsensor()
 
 
 ## Output  :
+![image](https://github.com/user-attachments/assets/536f2e0e-5acf-4f08-8017-053e37244da8)
 
  
  
